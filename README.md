@@ -56,17 +56,80 @@ export const me = {
 
 <br>
 
+---
+
+## 📦 Open Source Libraries
+
+<table>
+<tr>
+<td width="60%">
+
+### [TextHumanize](https://github.com/ksanyok/TextHumanize) ⭐ 20
+
+> AI text naturalization engine — makes AI-generated text sound human
+
+- 🌍 **25 languages** · 100% offline · zero dependencies
+- 🔬 PHANTOM™ & ASH™ detection bypass algorithms
+- 🧩 Implementations: **Python** · **PHP** · **TypeScript**
+- 🛠 REST API · CLI · Docker · 235K+ lines of code
+- 🔗 Live: [texthumanize.link](https://texthumanize.link)
+
+</td>
+<td width="40%" align="center">
+
+[![TextHumanize](https://github-readme-stats.vercel.app/api/pin/?username=ksanyok&repo=TextHumanize&theme=github_dark&hide_border=true)](https://github.com/ksanyok/TextHumanize)
+
+[![HumanizeKit](https://github-readme-stats.vercel.app/api/pin/?username=ksanyok&repo=HumanizeKit&theme=github_dark&hide_border=true)](https://github.com/ksanyok/HumanizeKit)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔌 WordPress Plugin Ecosystem
+
+<div align="center">
+
+| Plugin | Stars | Description |
+|--------|:-----:|-------------|
+| [AI-SEO-Content-Analyzer](https://github.com/ksanyok/AI-SEO-Content-Analyzer) | ⭐ 10 | Deep SEO analysis with OpenAI — for WordPress Classic/Block editors |
+| [translatepress-addon-indexer](https://github.com/ksanyok/translatepress-addon-indexer) | ⭐ 2 | Auto-indexes TranslatePress tables for search performance |
+| [device-prices-acf-plugin](https://github.com/ksanyok/device-prices-acf-plugin) | ⭐ 2 | ACF-powered pricing management for device service sites |
+| [AutoTranslateContent](https://github.com/ksanyok/AutoTranslateContent) | ⭐ 1 | Auto-translate WP content via Google Cloud Translation API |
+| [acf-price-updater-plugin](https://github.com/ksanyok/acf-price-updater-plugin) | ⭐ 1 | Bulk ACF price updater with import/export |
+| [custom-device-page-generator-wp](https://github.com/ksanyok/custom-device-page-generator-wp) | ⭐ 1 | Auto-generates device pages with ACF + multi-language |
+| [wp-popup-product-info](https://github.com/ksanyok/wp-popup-product-info) | ⭐ 1 | WooCommerce product info popup |
+| [nowaway-woocommerce-shipping](https://github.com/ksanyok/nowaway-woocommerce-shipping) | — | Custom WooCommerce shipping method integration |
+| [omega-woocommerce-importer](https://github.com/ksanyok/omega-woocommerce-importer) | — | Advanced product importer for WooCommerce |
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ksanyok&theme=darkhub&no-frame=true&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+<br>
+
 <div align="center">
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ksanyok&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksanyok&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ksanyok&theme=github_dark" height="165"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ksanyok&theme=github_dark" height="165"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ksanyok&theme=github_dark" height="165"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=ksanyok&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ksanyok&theme=github_dark" width="96%"/>
 
 </div>
 
