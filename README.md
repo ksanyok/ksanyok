@@ -1,29 +1,29 @@
 <div align="center">
 
-<pre>
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│   > whoami                                                   │
-│   ─────────────────────────────────────────────────────      │
-│     Aleksandr Krykun  ·  @ksanyok  ·  Ukraine                │
-│     Fullstack Dev  ·  SaaS Builder  ·  macOS Apps            │
-│                                                              │
-│   > stack                                                    │
-│   ─────────────────────────────────────────────────────      │
-│     Node.js · React · TypeScript · Python · Swift            │
-│     Docker · MySQL · Redis · Tailwind · Prisma · WP          │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-</pre>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aleksandr%20Krykun&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Fullstack%20Dev%20%C2%B7%20SaaS%20Builder%20%C2%B7%20macOS%20Developer&descAlignY=58&descAlign=50&descColor=aaaaaa" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=58A6FF&center=true&vCenter=true&width=640&lines=Building+SaaS+products+from+idea+to+launch+%F0%9F%9A%80;TextHumanize+%C2%B7+AI+SEO+Analyzer+%C2%B7+PromoPilot;AI+integrations+%C2%B7+macOS+apps+%C2%B7+2400%2B+commits%2Fyear)](https://git.io/typing-svg)
+![Profile Views](https://komarev.com/ghpvc/?username=ksanyok&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&height=55&lines=const+me+%3D+%7B+name%3A+%22Aleksandr+Krykun%22+%7D%3B;Fullstack+Dev+%7C+SaaS+Builder+%7C+AI+enthusiast;React+%2B+Node.js+%2B+Python+%2B+Swift+%2B+PHP;2%2C400%2B+commits+%C2%B7+always+shipping+%F0%9F%9A%80)](https://github.com/ksanyok)
 
 </div>
 
+---
 
-<br>
+```javascript
+// 👋 hello.js
+export const me = {
+  name:     "Aleksandr Krykun",
+  handle:   "@ksanyok 🇺🇦",
+  location: "Ukraine",
+  role:     "Fullstack Dev & SaaS Builder",
+  focus:    ["SaaS products", "AI tools", "macOS apps", "Web platforms"],
+  building: "PromoPilot · TextHumanize · BuyReadySite.com",
+  contact:  "https://t.me/buyreadysite",
+};
+```
 
-## ⚡ About
+## ⚡ About Me
 
 - 🏗 Founder of **[BuyReadySite.com](https://buyreadysite.com)** — ready-made digital products & web dev studio
 - 🤖 Creator of **TextHumanize** (⭐20) · **AI SEO Analyzer** (⭐10) · **PromoPilot SaaS**
@@ -48,42 +48,9 @@
 
 <div align="center">
 
-## 🛠 My Skill Set
+## 🛠 Tech Stack
 
-<table>
-<tr>
-<td align="center" valign="top" width="50%">
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind,vite,astro,js" />
-
-</td>
-<td align="center" valign="top" width="50%">
-
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=nodejs,python,php,prisma,express" />
-
-</td>
-</tr>
-<tr>
-<td align="center" valign="top">
-
-**Database & Infra**
-
-<img src="https://skillicons.dev/icons?i=mysql,redis,docker,nginx,linux,git" />
-
-</td>
-<td align="center" valign="top">
-
-**Native & Tools**
-
-<img src="https://skillicons.dev/icons?i=swift,sqlite,github,vscode" />
-
-</td>
-</tr>
-</table>
+[![Skills](https://skillicons.dev/icons?i=react,ts,js,tailwind,vite,astro,nodejs,python,php,swift,prisma,mysql,redis,docker,nginx,linux,git,github,vscode,sqlite&perline=10)](https://skillicons.dev)
 
 </div>
 
@@ -93,11 +60,13 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=ksanyok&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ksanyok&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="165"/>
 &nbsp;&nbsp;
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ksanyok&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ksanyok&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&hide_border=true&area=true&area_color=1f6feb" width="96%"/>
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=ksanyok&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165"/>
 
 </div>
 
@@ -118,3 +87,5 @@
 <sub>© BuyReadySite.com · Building great software from Ukraine 🇺🇦</sub>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
