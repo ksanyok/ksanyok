@@ -60,34 +60,88 @@ export const me = {
 
 ## 📦 Open Source Libraries
 
+<div align="center">
+
 <table>
 <tr>
-<td width="60%">
+<td align="center" width="50%">
 
-### [TextHumanize](https://github.com/ksanyok/TextHumanize) ⭐ 20
+### 🧠 [TextHumanize](https://github.com/ksanyok/TextHumanize)
 
-> AI text naturalization engine — makes AI-generated text sound human
+![Stars](https://img.shields.io/github/stars/ksanyok/TextHumanize?style=flat-square&color=gold)
+![Forks](https://img.shields.io/github/forks/ksanyok/TextHumanize?style=flat-square&color=58a6ff)
+![Language](https://img.shields.io/github/languages/top/ksanyok/TextHumanize?style=flat-square)
 
-- 🌍 **25 languages** · 100% offline · zero dependencies
-- 🔬 PHANTOM™ & ASH™ detection bypass algorithms
-- 🧩 Implementations: **Python** · **PHP** · **TypeScript**
-- 🛠 REST API · CLI · Docker · 235K+ lines of code
-- 🔗 Live: [texthumanize.link](https://texthumanize.link)
+AI text naturalization engine
+**25 languages · 100% offline · zero deps**
+PHANTOM™ & ASH™ detection bypass
+Python · PHP · TypeScript · REST API · CLI
+
+➡️ [texthumanize.link](https://texthumanize.link)
 
 </td>
-<td width="40%" align="center">
+<td align="center" width="50%">
 
-[![TextHumanize](https://github-readme-stats.vercel.app/api/pin/?username=ksanyok&repo=TextHumanize&theme=github_dark&hide_border=true)](https://github.com/ksanyok/TextHumanize)
+### ⚡ [HumanizeKit](https://github.com/ksanyok/HumanizeKit)
 
-[![HumanizeKit](https://github-readme-stats.vercel.app/api/pin/?username=ksanyok&repo=HumanizeKit&theme=github_dark&hide_border=true)](https://github.com/ksanyok/HumanizeKit)
+![Language](https://img.shields.io/github/languages/top/ksanyok/HumanizeKit?style=flat-square)
+![Size](https://img.shields.io/github/repo-size/ksanyok/HumanizeKit?style=flat-square&color=green)
+
+JavaScript humanizer toolkit
+**Lightweight · Browser-ready · No deps**
+Ports the TextHumanize engine to JS/TS
+Ideal for frontend & Node.js integrations
+
+➡️ [GitHub Repo](https://github.com/ksanyok/HumanizeKit)
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-## 🔌 WordPress Plugin Ecosystem
+## � My SaaS Products
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="50%">
+
+### 🤖 PromoPilot
+
+> AI-powered marketing automation platform
+
+[![Visit](https://img.shields.io/badge/promopilot.link-🚀%20Launch%20App-6f42c1?style=for-the-badge)](https://promopilot.link)
+
+Automate your marketing with AI.
+Content generation · Campaign scheduling
+Social media · Analytics · Multi-platform
+
+**Built with:** React · Node.js · OpenAI · MySQL
+
+</td>
+<td align="center" width="50%">
+
+### 🛒 BuyReadySite.com
+
+> Ready-made digital products & web dev studio
+
+[![Visit](https://img.shields.io/badge/buyreadysite.com-🌐%20Visit%20Site-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://buyreadysite.com)
+
+Ready-to-launch websites & plugins.
+WordPress · WooCommerce · SaaS MVPs
+Custom development · AI integrations
+
+**Telegram:** [@buyreadysite](https://t.me/buyreadysite)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <div align="center">
 
