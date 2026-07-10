@@ -1,34 +1,28 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aleksandr%20Krykun&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Fullstack%20Dev%20%C2%B7%20SaaS%20Builder%20%C2%B7%20macOS%20Developer&descAlignY=58&descAlign=50&descColor=aaaaaa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Aleksandr%20Krykun&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Full-Stack%20Dev%20%C2%B7%20SaaS%20Builder%20%C2%B7%20AI%20Engineer&descAlignY=58&descAlign=50&descColor=aaaaaa" />
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ksanyok&style=for-the-badge&color=0d1117&label=PROFILE+VIEWS)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&height=55&lines=const+me+%3D+%7B+name%3A+%22Aleksandr+Krykun%22+%7D%3B;Fullstack+Dev+%7C+SaaS+Builder+%7C+AI+enthusiast;React+%2B+Node.js+%2B+Python+%2B+Swift+%2B+PHP;2%2C400%2B+commits+%C2%B7+always+shipping+%F0%9F%9A%80)](https://github.com/ksanyok)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=720&height=55&lines=const+me+%3D+%7B+name%3A+%22Aleksandr+Krykun%22+%7D%3B;Full-Stack+Dev+%7C+SaaS+Builder+%7C+AI+engineer;PHP+%2B+Python+%2B+TypeScript+%2B+Swift+%2B+React;3%2C000%2B+contributions+this+year+%C2%B7+always+shipping+%F0%9F%9A%80)](https://github.com/ksanyok)
+
+<!-- neofetch card: ASCII portrait generated from avatar by scripts/build_svg.py,
+     stats auto-refreshed daily by .github/workflows/update-stats.yml -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="neofetch-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="neofetch-light.svg">
+  <img src="neofetch-dark.svg" alt="terminal-style profile card with ASCII portrait" width="100%">
+</picture>
 
 </div>
-
----
-
-```javascript
-// 👋 hello.js
-export const me = {
-  name:     "Aleksandr Krykun",
-  handle:   "@ksanyok 🇺🇦",
-  location: "Ukraine",
-  role:     "Fullstack Dev & SaaS Builder",
-  focus:    ["SaaS products", "AI tools", "macOS apps", "Web platforms"],
-  building: "PromoPilot · TextHumanize · BuyReadySite.com",
-  contact:  "https://t.me/buyreadysite",
-};
-```
 
 ## ⚡ About Me
 
 - 🏗 Founder of **[BuyReadySite.com](https://buyreadysite.com)** — ready-made digital products & web dev studio
-- 🤖 Creator of **TextHumanize** (⭐20) · **AI SEO Analyzer** (⭐10) · **PromoPilot SaaS**
-- 🍎 Building macOS native apps with Swift + OpenAI — **Sonus**, **Brisa**
-- 🌍 2,400+ GitHub contributions last year · Open source believer
+- 🚀 Building **[PromoPilot](https://promopilot.link)** — AI link-building & promotion SaaS ([App Store](https://apps.apple.com/app/id6781813720) 📱)
+- 🤖 Creator of **TextHumanize** ![Stars](https://img.shields.io/github/stars/ksanyok/TextHumanize?style=flat-square&label=%E2%AD%90&color=gold&labelColor=0d1117) · **AI SEO Analyzer** ![Stars](https://img.shields.io/github/stars/ksanyok/AI-SEO-Content-Analyzer?style=flat-square&label=%E2%AD%90&color=gold&labelColor=0d1117)
+- 🍎 Native macOS/iOS apps with Swift + AI — **Sonus**, **Brisa**, **PromoPilot iOS**
+- 🌍 3,000+ GitHub contributions in the last year · Open source believer
 
 <br>
 
@@ -36,11 +30,11 @@ export const me = {
 
 | Project | Description | Stack |
 |---|---|:---:|
+| [**PromoPilot**](https://promopilot.link) | AI promotion SaaS: cascades of publications, SEO audit, rank tracking · [iOS app](https://apps.apple.com/app/id6781813720) | PHP · Node.js · RN |
 | [**TextHumanize**](https://github.com/ksanyok/TextHumanize) | AI text naturalization · 25 languages · 100% offline | Python · PHP · TS |
 | [**AI SEO Analyzer**](https://github.com/ksanyok/AI-SEO-Content-Analyzer) | WordPress SEO plugin with OpenAI integration | PHP · WordPress |
-| [**SMS SaaS Platform**](https://github.com/ksanyok/twilio-sms-platform) | Full SaaS: queues, realtime, billing, analytics | React · Node.js · MySQL |
 | [**Sonus**](https://github.com/ksanyok/Sonus) | macOS app: record → transcribe → translate | Swift · Whisper · GPT |
-| **PromoPilot** *(private)* | AI-powered marketing automation SaaS | React · Node.js · AI |
+| [**SMS SaaS Platform**](https://github.com/ksanyok/twilio-sms-platform) | Full SaaS: queues, realtime, billing, analytics | React · Node.js · MySQL |
 | [**modx-to-astro**](https://github.com/ksanyok/modx-to-astro) | CMS migration CLI with zero-downtime deploy | Astro · Shell · CI/CD |
 | [**VoltPing**](https://github.com/ksanyok/VoltPing) | Power monitoring · Telegram bot · Tuya Cloud | PHP · Python · SQLite |
 
@@ -102,7 +96,7 @@ Ideal for frontend & Node.js integrations
 
 ---
 
-## � My SaaS Products
+## 🧩 My SaaS Products
 
 <div align="center">
 
@@ -112,15 +106,16 @@ Ideal for frontend & Node.js integrations
 
 ### 🤖 PromoPilot
 
-> AI-powered marketing automation platform
+> AI-powered link-building & promotion platform
 
 [![Visit](https://img.shields.io/badge/promopilot.link-🚀%20Launch%20App-6f42c1?style=for-the-badge)](https://promopilot.link)
+[![App Store](https://img.shields.io/badge/App%20Store-iOS%20app-0d1117?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/app/id6781813720)
 
-Automate your marketing with AI.
-Content generation · Campaign scheduling
-Social media · Analytics · Multi-platform
+Cascades of AI-generated publications
+SEO audit · Rank tracker · Crowd marketing
+86 free SEO tools · Multi-language
 
-**Built with:** React · Node.js · OpenAI · MySQL
+**Built with:** PHP · Node.js · React Native · AI
 
 </td>
 <td align="center" width="50%">
@@ -147,13 +142,13 @@ Custom development · AI integrations
 
 | Plugin | Stars | Description |
 |--------|:-----:|-------------|
-| [AI-SEO-Content-Analyzer](https://github.com/ksanyok/AI-SEO-Content-Analyzer) | ⭐ 10 | Deep SEO analysis with OpenAI — for WordPress Classic/Block editors |
-| [translatepress-addon-indexer](https://github.com/ksanyok/translatepress-addon-indexer) | ⭐ 2 | Auto-indexes TranslatePress tables for search performance |
-| [device-prices-acf-plugin](https://github.com/ksanyok/device-prices-acf-plugin) | ⭐ 2 | ACF-powered pricing management for device service sites |
-| [AutoTranslateContent](https://github.com/ksanyok/AutoTranslateContent) | ⭐ 1 | Auto-translate WP content via Google Cloud Translation API |
-| [acf-price-updater-plugin](https://github.com/ksanyok/acf-price-updater-plugin) | ⭐ 1 | Bulk ACF price updater with import/export |
-| [custom-device-page-generator-wp](https://github.com/ksanyok/custom-device-page-generator-wp) | ⭐ 1 | Auto-generates device pages with ACF + multi-language |
-| [wp-popup-product-info](https://github.com/ksanyok/wp-popup-product-info) | ⭐ 1 | WooCommerce product info popup |
+| [AI-SEO-Content-Analyzer](https://github.com/ksanyok/AI-SEO-Content-Analyzer) | ![](https://img.shields.io/github/stars/ksanyok/AI-SEO-Content-Analyzer?style=flat-square&label=%E2%AD%90&color=gold) | Deep SEO analysis with OpenAI — for WordPress Classic/Block editors |
+| [translatepress-addon-indexer](https://github.com/ksanyok/translatepress-addon-indexer) | ![](https://img.shields.io/github/stars/ksanyok/translatepress-addon-indexer?style=flat-square&label=%E2%AD%90&color=gold) | Auto-indexes TranslatePress tables for search performance |
+| [device-prices-acf-plugin](https://github.com/ksanyok/device-prices-acf-plugin) | ![](https://img.shields.io/github/stars/ksanyok/device-prices-acf-plugin?style=flat-square&label=%E2%AD%90&color=gold) | ACF-powered pricing management for device service sites |
+| [AutoTranslateContent](https://github.com/ksanyok/AutoTranslateContent) | ![](https://img.shields.io/github/stars/ksanyok/AutoTranslateContent?style=flat-square&label=%E2%AD%90&color=gold) | Auto-translate WP content via Google Cloud Translation API |
+| [acf-price-updater-plugin](https://github.com/ksanyok/acf-price-updater-plugin) | ![](https://img.shields.io/github/stars/ksanyok/acf-price-updater-plugin?style=flat-square&label=%E2%AD%90&color=gold) | Bulk ACF price updater with import/export |
+| [custom-device-page-generator-wp](https://github.com/ksanyok/custom-device-page-generator-wp) | ![](https://img.shields.io/github/stars/ksanyok/custom-device-page-generator-wp?style=flat-square&label=%E2%AD%90&color=gold) | Auto-generates device pages with ACF + multi-language |
+| [wp-popup-product-info](https://github.com/ksanyok/wp-popup-product-info) | ![](https://img.shields.io/github/stars/ksanyok/wp-popup-product-info?style=flat-square&label=%E2%AD%90&color=gold) | WooCommerce product info popup |
 | [nowaway-woocommerce-shipping](https://github.com/ksanyok/nowaway-woocommerce-shipping) | — | Custom WooCommerce shipping method integration |
 | [omega-woocommerce-importer](https://github.com/ksanyok/omega-woocommerce-importer) | — | Advanced product importer for WooCommerce |
 
@@ -163,9 +158,13 @@ Custom development · AI integrations
 
 <div align="center">
 
-## 🏆 Trophies
+## 🐍 Contribution Graph
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ksanyok&theme=darkhub&no-frame=true&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ksanyok/ksanyok/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ksanyok/ksanyok/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/ksanyok/ksanyok/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%">
+</picture>
 
 </div>
 
@@ -177,6 +176,10 @@ Custom development · AI integrations
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ksanyok&theme=github_dark" height="165"/>
 &nbsp;
+<img src="https://streak-stats.demolab.com?user=ksanyok&theme=github-dark-blue&hide_border=false&border_radius=4.5" height="165"/>
+
+<br/>
+
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ksanyok&theme=github_dark" height="165"/>
 &nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ksanyok&theme=github_dark" height="165"/>
@@ -184,6 +187,10 @@ Custom development · AI integrations
 <br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ksanyok&theme=github_dark" width="96%"/>
+
+## 🏆 Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ksanyok&theme=darkhub&no-frame=true&margin-w=8&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 

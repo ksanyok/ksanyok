@@ -1,0 +1,30 @@
+name: Update profile stats
+
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update stats in SVG cards
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Optional: add a classic PAT with `repo` scope as STATS_TOKEN secret
+          # so private repo counts / contributions stay accurate.
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+        run: python3 scripts/update_stats.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add neofetch-dark.svg neofetch-light.svg
+          git diff --cached --quiet || (git commit -m "chore: refresh profile stats" && git push)
