@@ -22,6 +22,7 @@
 - 🚀 Building **[PromoPilot](https://promopilot.link)** — AI link-building & promotion SaaS ([App Store](https://apps.apple.com/app/id6781813720) 📱)
 - 🤖 Creator of **TextHumanize** ![Stars](https://img.shields.io/github/stars/ksanyok/TextHumanize?style=flat-square&label=%E2%AD%90&color=gold&labelColor=0d1117) · **AI SEO Analyzer** ![Stars](https://img.shields.io/github/stars/ksanyok/AI-SEO-Content-Analyzer?style=flat-square&label=%E2%AD%90&color=gold&labelColor=0d1117)
 - 🍎 Native macOS/iOS apps with Swift + AI — **Sonus**, **Brisa**, **PromoPilot iOS**
+- 🧪 **[20 free SEO & email tools](#-free-seo--email-tools--open-source)** open-sourced as CLIs, libraries and GitHub Actions
 - 🌍 3,000+ GitHub contributions in the last year · Open source believer
 
 <br>
@@ -93,6 +94,67 @@ Ideal for frontend & Node.js integrations
 </table>
 
 </div>
+
+---
+
+## 🧪 Free SEO & Email Tools — Open Source
+
+<div align="center">
+
+![Tools](https://img.shields.io/badge/open--source_tools-20-8b5cf6?style=flat-square) ![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square) ![Node](https://img.shields.io/badge/node-%3E%3D18-339933?style=flat-square&logo=node.js&logoColor=white) ![Dependencies](https://img.shields.io/badge/dependencies-0-brightgreen?style=flat-square) ![GitHub Action](https://img.shields.io/badge/GitHub_Action-ready-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+</div>
+
+The client-side checks behind [PromoPilot's free tools](https://promopilot.link/en/tools/?utm_source=github&utm_medium=profile&utm_campaign=tools&utm_content=hub), published as small zero-dependency Node.js packages. Each one is a CLI, a library and a GitHub Action, and has a free online version — no install, no sign-up.
+
+```bash
+npx github:ksanyok/spf-checker example.com
+```
+
+**📧 Email & DNS**
+
+| Tool | What it does | Code | Online |
+|---|---|:---:|:---:|
+| [**SPF Checker**](https://github.com/ksanyok/spf-checker) | Parse SPF, follow includes, count DNS lookups | [![repo](https://img.shields.io/badge/-spf--checker-181717?style=flat-square&logo=github)](https://github.com/ksanyok/spf-checker) | [▶ Try it](https://promopilot.link/en/tools/spf-checker.php?utm_source=github&utm_medium=profile&utm_campaign=tools&utm_content=spf-checker) |
+| [**DMARC Checker**](https://github.com/ksanyok/dmarc-checker) | Validate DMARC policy, alignment and report addresses | [![repo](https://img.shields.io/badge/-dmarc--checker-181717?style=flat-square&logo=github)](https://github.com/ksanyok/dmarc-checker) | [▶ Try it](https://promopilot.link/en/tools/dmarc-checker.php?utm_source=github&utm_medium=profile&utm_campaign=tools&utm_content=dmarc-checker) |
+| [**DKIM Checker**](https://github.com/ksanyok/dkim-checker) | Find selectors, decode the public key and its size | [![repo](https://img.shields.io/badge/-dkim--checker-181717?style=flat-square&logo=github)](https://github.com/ksanyok/dkim-checker) | [▶ Try it](https://promopilot.link/en/tools/dkim-checker.php?utm_source=github&utm_medium=profile&utm_campaign=tools&utm_content=dkim-checker) |
+| [**BIMI Checker**](https://github.com/ksanyok/bimi-checker) | Check the BIMI record, SVG Tiny PS logo and VMC/CMC | [![repo](https://img.shields.io/badge/-bimi--checker-181717?style=flat-square&logo=github)](https://github.com/ksanyok/bimi-checker) | [▶ Try it](https://promopilot.link/en/tools/bimi-checker.php?utm_source=github&utm_medium=profile&utm_campaign=tools&utm_content=bimi-checker) |
+| [**MX Lookup**](https://github.com/ksanyok/mx-lookup) | List MX hosts by priority and detect the mail provider | [![repo](https://img.shields.io/badge/-mx--lookup-181717?style=flat-square&logo=github)](https://github.com/ksanyok/mx-lookup) | [▶ Try it](https://promopilot.link/en/tools/mx-lookup.php?utm_source=github&utm_medium=profile&utm_campaign=tools&utm_content=mx-lookup) |
+
+**🔒 HTTP & security**
+
+| Tool | What it does | Code | Online |
+|---|---|:---:|:---:|
+| [**SSL Checker**](https://github.com/ksanyok/ssl-checker) | Certificate chain, expiry, TLS protocol and hostname match | [![repo](https://img.shields.io/badge/-ssl--checker-181717?style=flat-square&logo=github)](https://github.com/ksanyok/ssl-checker) | [▶ Try it](https://promopilot.link/en/tools/ssl-checker.php?utm_source=github&utm_medium=profile&utm_campaign=tools&utm_content=ssl-checker) |
+| [**Security Headers**](https://github.com/ksanyok/security-headers) | Grade CSP, HSTS and other security headers A–F | [![repo](https://img.shields.io/badge/-security--headers-181717?style=flat-square&logo=github)](https://github.com/ksanyok/security-headers) | [▶ Try it](https://promopilot.link/en/tools/security-headers.php?utm_source=github&utm_medium=profile&utm_campaign=tools&utm_content=security-headers) |
+| [**Redirect Checker**](https://github.com/ksanyok/redirect-checker) | Trace HTTP and meta-refresh redirect chains | [![repo](https://img.shields.io/badge/-redirect--checker-181717?style=flat-square&logo=github)](https://github.com/ksanyok/redirect-checker) | [▶ Try it](https://promopilot.link/en/tools/redirect-checker.php?utm_source=github&utm_medium=profile&utm_campaign=tools&utm_content=redirect-checker) |
+| [**Broken Links**](https://github.com/ksanyok/broken-links) | Find broken links on a page | [![repo](https://img.shields.io/badge/-broken--links-181717?style=flat-square&logo=github)](https://github.com/ksanyok/broken-links) | [▶ Try it](https://promopilot.link/en/tools/broken-links.php?utm_source=github&utm_medium=profile&utm_campaign=tools&utm_content=broken-links) |
+
+**🕷 Crawling & indexing**
+
+| Tool | What it does | Code | Online |
+|---|---|:---:|:---:|
+| [**Robots.txt Checker**](https://github.com/ksanyok/robots-checker) | RFC 9309 parser, linter and URL allow/deny test | [![repo](https://img.shields.io/badge/-robots--checker-181717?style=flat-square&logo=github)](https://github.com/ksanyok/robots-checker) | [▶ Try it](https://promopilot.link/en/tools/robots-checker.php?utm_source=github&utm_medium=profile&utm_campaign=tools&utm_content=robots-checker) |
+| [**Robots.txt Generator**](https://github.com/ksanyok/robots-generator) | Generate robots.txt with presets and AI-crawler rules | [![repo](https://img.shields.io/badge/-robots--generator-181717?style=flat-square&logo=github)](https://github.com/ksanyok/robots-generator) | [▶ Try it](https://promopilot.link/en/tools/robots-generator.php?utm_source=github&utm_medium=profile&utm_campaign=tools&utm_content=robots-generator) |
+| [**Sitemap Analyzer**](https://github.com/ksanyok/sitemap-analyzer) | Validate XML sitemaps and indexes, check URL status | [![repo](https://img.shields.io/badge/-sitemap--analyzer-181717?style=flat-square&logo=github)](https://github.com/ksanyok/sitemap-analyzer) | [▶ Try it](https://promopilot.link/en/tools/sitemap-analyzer.php?utm_source=github&utm_medium=profile&utm_campaign=tools&utm_content=sitemap-analyzer) |
+
+**🔎 On-page & SERP**
+
+| Tool | What it does | Code | Online |
+|---|---|:---:|:---:|
+| [**Meta Tag Analyzer**](https://github.com/ksanyok/meta-analyzer) | Audit title, description, canonical and robots tags | [![repo](https://img.shields.io/badge/-meta--analyzer-181717?style=flat-square&logo=github)](https://github.com/ksanyok/meta-analyzer) | [▶ Try it](https://promopilot.link/en/tools/meta-analyzer.php?utm_source=github&utm_medium=profile&utm_campaign=tools&utm_content=meta-analyzer) |
+| [**Open Graph Debugger**](https://github.com/ksanyok/og-debugger) | Check Open Graph / Twitter Cards and share image size | [![repo](https://img.shields.io/badge/-og--debugger-181717?style=flat-square&logo=github)](https://github.com/ksanyok/og-debugger) | [▶ Try it](https://promopilot.link/en/tools/og-debugger.php?utm_source=github&utm_medium=profile&utm_campaign=tools&utm_content=og-debugger) |
+| [**SERP Preview**](https://github.com/ksanyok/serp-preview) | Google snippet preview with pixel-width truncation | [![repo](https://img.shields.io/badge/-serp--preview-181717?style=flat-square&logo=github)](https://github.com/ksanyok/serp-preview) | [▶ Try it](https://promopilot.link/en/tools/serp-preview.php?utm_source=github&utm_medium=profile&utm_campaign=tools&utm_content=serp-preview) |
+| [**Schema Validator**](https://github.com/ksanyok/schema-validator) | Validate JSON-LD against rich-result requirements | [![repo](https://img.shields.io/badge/-schema--validator-181717?style=flat-square&logo=github)](https://github.com/ksanyok/schema-validator) | [▶ Try it](https://promopilot.link/en/tools/schema-validator.php?utm_source=github&utm_medium=profile&utm_campaign=tools&utm_content=schema-validator) |
+| [**Keyword Density**](https://github.com/ksanyok/keyword-density) | Keyword and n-gram density of a page or text | [![repo](https://img.shields.io/badge/-keyword--density-181717?style=flat-square&logo=github)](https://github.com/ksanyok/keyword-density) | [▶ Try it](https://promopilot.link/en/tools/keyword-density.php?utm_source=github&utm_medium=profile&utm_campaign=tools&utm_content=keyword-density) |
+
+**🧰 Utilities**
+
+| Tool | What it does | Code | Online |
+|---|---|:---:|:---:|
+| [**UTM Builder**](https://github.com/ksanyok/utm-builder) | Build, parse and lint UTM-tagged URLs | [![repo](https://img.shields.io/badge/-utm--builder-181717?style=flat-square&logo=github)](https://github.com/ksanyok/utm-builder) | [▶ Try it](https://promopilot.link/en/tools/utm-builder.php?utm_source=github&utm_medium=profile&utm_campaign=tools&utm_content=utm-builder) |
+| [**Favicon Checker**](https://github.com/ksanyok/favicon-checker) | Check favicons, touch icons and the web manifest | [![repo](https://img.shields.io/badge/-favicon--checker-181717?style=flat-square&logo=github)](https://github.com/ksanyok/favicon-checker) | [▶ Try it](https://promopilot.link/en/tools/favicon-checker.php?utm_source=github&utm_medium=profile&utm_campaign=tools&utm_content=favicon-checker) |
+| [**Watermark Detector**](https://github.com/ksanyok/watermark-detector) | Detect hidden Unicode characters in text | [![repo](https://img.shields.io/badge/-watermark--detector-181717?style=flat-square&logo=github)](https://github.com/ksanyok/watermark-detector) | [▶ Try it](https://promopilot.link/en/tools/watermark-detector.php?utm_source=github&utm_medium=profile&utm_campaign=tools&utm_content=watermark-detector) |
 
 ---
 
